@@ -1,6 +1,6 @@
 ---
 title: 'Rohan Chavan'
-description: 'Innovative tech enthusiast crafting impactful solutions. Let's push boundaries together! GO,Python,microservices,system design'
+description: "Innovative tech enthusiast crafting impactful solutions. Let's push boundaries together! GO,Python,microservices,system design"
 ---
 
 Go | Python | Microservices | Infosec
