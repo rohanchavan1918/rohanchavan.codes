@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rohan Chavan | GO | Golang | Python | py | Microservies | Cybersecurity  on Rohan Chavan</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Rohan Chavan | GO | Golang | Python | py | Microservies | Cybersecurity  on Rohan Chavan</description>
+    <title>Rohan Chavan</title>
+    <link>http://localhost:1313/posts/projects/</link>
+    <description>Recent content on Rohan Chavan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rohan Chavan</copyright>
-    <lastBuildDate>Sat, 30 Mar 2024 18:02:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2024 18:02:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Loghawk</title>
       <link>http://localhost:1313/posts/projects/loghawk/</link>
@@ -15,16 +15,6 @@
       
       <guid>http://localhost:1313/posts/projects/loghawk/</guid>
       <description>loghawk #TL;DR - Code Breaks, Fix it Faster 🚀 #LogHawk: #A smart alert generation tool seamlessly connecting with your logging stack (ELK/EFK), proactively notifying your team of any issues 🤫 Efficiently utilize time and resources by avoiding manual RCA (Root Cause Analysis) Decrease the MTTR (Mean time to Repair) and incident response Designed for user-friendliness, resilience, and scalability 🤖 Problem statement #Presently, a significant amount of resources and time are consumed when a production issue arises, despite the potential for early identification through alerts.</description>
-      
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/blogs/hello-world/</link>
-      <pubDate>Sat, 30 Mar 2024 17:41:02 +0530</pubDate>
-      
-      <guid>http://localhost:1313/posts/blogs/hello-world/</guid>
-      <description># .</description>
       
     </item>
     

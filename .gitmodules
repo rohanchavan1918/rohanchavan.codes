@@ -1,3 +1,7 @@
 [submodule "themes/salinger"]
 	path = themes/salinger
 	url = https://github.com/jacksalici/salinger-theme.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
