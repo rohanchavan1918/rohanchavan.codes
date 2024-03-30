@@ -1,6 +1,6 @@
 ---
-title: 'Rohan Chavan | GO | Golang | Python | py | Microservies | Cybersecurity '
-description: 'A clean, minimalistic, mobile-first, blazing-fast, powerfull theme for Hugo framework made with Tailwind and DaisyUI. Please consider starring this project on Github.'
+title: 'Rohan Chavan'
+description: 'Innovative tech enthusiast crafting impactful solutions. Let's push boundaries together! GO | Golang | Python | py | Microservies | Cybersecurity'
 ---
 
 Go | Python | Microservices | Infosec
