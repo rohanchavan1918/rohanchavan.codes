@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rohan Chavan</copyright>
-    <lastBuildDate>Sat, 30 Mar 2024 17:41:02 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jun 2024 09:34:23 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Frustration of Repetition</title>
+      <link>http://localhost:1313/posts/blogs/gorandomify/</link>
+      <pubDate>Sun, 09 Jun 2024 09:34:23 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/blogs/gorandomify/</guid>
+      <description>There comes a time when you get so bored doing some daily boring and repeative tasks during coding, eventually get fedup enough that you spend the next weekend to do something about it.</description>
+      
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/blogs/hello-world/</link>
       <pubDate>Sat, 30 Mar 2024 17:41:02 +0530</pubDate>
       
       <guid>http://localhost:1313/posts/blogs/hello-world/</guid>
-      <description># .</description>
+      <description>A new beginning</description>
       
     </item>
     
