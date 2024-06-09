@@ -200,4 +200,4 @@ make run-snapshot-creation
 
 ### Summing it up
 
-In a nutshell, tackling the monotony of repetitive tasks in development and testing became a priority to boost productivity. Enter `gorandomify`, my brainchild, designed to automate JSON data generation for my serverless project. This handy tool eliminates manual data manipulation, letting me focus on the fun stuff. With `gorandomify` seamlessly integrated into my workflow, I've reclaimed precious time and energy, paving the way for smoother sailing in software development. Here's to innovation and problem-solving, making our coding lives a little sweeter, one line of code at a time!
+In a nutshell, tackling the monotony of repetitive tasks in development and testing became a priority to boost productivity.This handy tool eliminates manual data manipulation, letting me focus on the fun stuff. With `gorandomify` seamlessly integrated into my workflow, I've reclaimed precious time and energy, paving the way for smoother sailing in software development. Here's to innovation and problem-solving, making our coding lives a little sweeter, one line of code at a time!
