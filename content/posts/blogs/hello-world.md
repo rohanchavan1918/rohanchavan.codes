@@ -1,6 +1,7 @@
 +++
 title = 'Hello World'
 date = 2024-03-30T17:41:02+05:30
+summary = "A new beginning"
 +++
 
 # `# ./hello-world`

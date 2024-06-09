@@ -7,14 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rohan Chavan</copyright>
-    <lastBuildDate>Sat, 30 Mar 2024 18:02:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jun 2024 13:12:56 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gorandomify</title>
+      <link>http://localhost:1313/posts/projects/gorandomify/</link>
+      <pubDate>Sun, 09 Jun 2024 13:12:56 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/gorandomify/</guid>
+      <description>&lt;a href=&#34;https://github.com/rohanchavan1918/gorandomify&#34;   target=&#34;_blank&#34;&gt;
+    Go Randomify&lt;/a&gt; is a lightweight command-line tool written in Go that allows you to generate randomized data within JSON templates. With Go Randomify, you can easily create dynamic JSON files for testing, prototyping,automations and more.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Frustration of Repetition</title>
+      <link>http://localhost:1313/posts/blogs/gorandomify/</link>
+      <pubDate>Sun, 09 Jun 2024 09:34:23 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/blogs/gorandomify/</guid>
+      <description>There comes a time when you get so bored doing some daily boring and repeative tasks during coding, eventually get fedup enough that you spend the next weekend to do something about it.</description>
+      
+    </item>
+    
     <item>
       <title>Loghawk</title>
       <link>http://localhost:1313/posts/projects/loghawk/</link>
       <pubDate>Sat, 30 Mar 2024 18:02:00 +0530</pubDate>
       
       <guid>http://localhost:1313/posts/projects/loghawk/</guid>
-      <description>loghawk #TL;DR - Code Breaks, Fix it Faster 🚀 #LogHawk: #A smart alert generation tool seamlessly connecting with your logging stack (ELK/EFK), proactively notifying your team of any issues 🤫 Efficiently utilize time and resources by avoiding manual RCA (Root Cause Analysis) Decrease the MTTR (Mean time to Repair) and incident response Designed for user-friendliness, resilience, and scalability 🤖 Problem statement #Presently, a significant amount of resources and time are consumed when a production issue arises, despite the potential for early identification through alerts.</description>
+      <description>Code Breaks, Fix it Faster with loghawk 🚀</description>
       
     </item>
     
@@ -24,7 +45,7 @@
       <pubDate>Sat, 30 Mar 2024 17:41:02 +0530</pubDate>
       
       <guid>http://localhost:1313/posts/blogs/hello-world/</guid>
-      <description># .</description>
+      <description>A new beginning</description>
       
     </item>
     

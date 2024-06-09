@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rohan Chavan</copyright>
-    <lastBuildDate>Sat, 30 Mar 2024 18:02:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jun 2024 13:12:56 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gorandomify</title>
+      <link>http://localhost:1313/posts/projects/gorandomify/</link>
+      <pubDate>Sun, 09 Jun 2024 13:12:56 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/projects/gorandomify/</guid>
+      <description>&lt;code&gt;gorandomify&lt;/code&gt; is a lightweight command-line tool written in Go that allows you to generate randomized data within JSON templates. With Go Randomify, you can easily create dynamic JSON files for testing, prototyping,automations and more.</description>
+      
+    </item>
+    
     <item>
       <title>Loghawk</title>
       <link>http://localhost:1313/posts/projects/loghawk/</link>
       <pubDate>Sat, 30 Mar 2024 18:02:00 +0530</pubDate>
       
       <guid>http://localhost:1313/posts/projects/loghawk/</guid>
-      <description>loghawk #TL;DR - Code Breaks, Fix it Faster 🚀 #LogHawk: #A smart alert generation tool seamlessly connecting with your logging stack (ELK/EFK), proactively notifying your team of any issues 🤫 Efficiently utilize time and resources by avoiding manual RCA (Root Cause Analysis) Decrease the MTTR (Mean time to Repair) and incident response Designed for user-friendliness, resilience, and scalability 🤖 Problem statement #Presently, a significant amount of resources and time are consumed when a production issue arises, despite the potential for early identification through alerts.</description>
+      <description>Code Breaks, Fix it Faster with loghawk 🚀</description>
       
     </item>
     

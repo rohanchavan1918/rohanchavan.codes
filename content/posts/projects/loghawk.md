@@ -1,6 +1,7 @@
 +++
 title = 'Loghawk'
 date = 2024-03-30T18:02:00+05:30
+summary = "Code Breaks, Fix it Faster with loghawk 🚀"
 +++
 
 # loghawk
