@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rohan Chavan</copyright>
-    <lastBuildDate>Sat, 30 Mar 2024 18:02:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 11:42:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title># 1. Exploring Go Generics | Building a scheduler service in Go</title>
+      <link>http://localhost:1313/posts/blogs/exploring-go-generics/</link>
+      <pubDate>Tue, 02 Apr 2024 11:42:30 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/blogs/exploring-go-generics/</guid>
+      <description>How confident are you with Go Generics?</description>
+      
+    </item>
+    
     <item>
       <title>Loghawk</title>
       <link>http://localhost:1313/posts/projects/loghawk/</link>

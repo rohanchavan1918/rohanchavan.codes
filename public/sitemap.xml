@@ -4,7 +4,25 @@
 
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-30T18:02:00+05:30</lastmod>
+    <lastmod>2024-04-02T11:42:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/blogs/</loc>
+    <lastmod>2024-04-02T11:42:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/blogs/exploring-go-generics/</loc>
+    <lastmod>2024-04-02T11:42:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-02T11:42:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -17,18 +35,6 @@
   <url>
     <loc>http://localhost:1313/posts/projects/loghawk/</loc>
     <lastmod>2024-03-30T18:02:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-30T18:02:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/blogs/</loc>
-    <lastmod>2024-03-30T17:41:02+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
