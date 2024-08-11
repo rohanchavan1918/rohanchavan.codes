@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rohan Chavan</copyright>
-    <lastBuildDate>Sun, 09 Jun 2024 09:34:23 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 18:23:14 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building wc (word count) in Go</title>
+      <link>http://localhost:1313/posts/blogs/wc/</link>
+      <pubDate>Sun, 11 Aug 2024 18:23:14 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/blogs/wc/</guid>
+      <description>When I was not able to find a good alternative to the Linux wc (word count) command for Windows, I decided to build my own version.</description>
+      
+    </item>
+    
     <item>
       <title>The Frustration of Repetition</title>
       <link>http://localhost:1313/posts/blogs/gorandomify/</link>

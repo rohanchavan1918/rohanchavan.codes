@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rohan Chavan</copyright>
-    <lastBuildDate>Sun, 09 Jun 2024 13:12:56 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 18:23:14 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building wc (word count) in Go</title>
+      <link>http://localhost:1313/posts/blogs/wc/</link>
+      <pubDate>Sun, 11 Aug 2024 18:23:14 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/blogs/wc/</guid>
+      <description>When I was not able to find a good alternative to the Linux wc (word count) command for Windows, I decided to build my own version.</description>
+      
+    </item>
+    
     <item>
       <title>Gorandomify</title>
       <link>http://localhost:1313/posts/projects/gorandomify/</link>
       <pubDate>Sun, 09 Jun 2024 13:12:56 +0530</pubDate>
       
       <guid>http://localhost:1313/posts/projects/gorandomify/</guid>
-      <description>&lt;a href=&#34;https://github.com/rohanchavan1918/gorandomify&#34;   target=&#34;_blank&#34;&gt;
-    Go Randomify&lt;/a&gt; is a lightweight command-line tool written in Go that allows you to generate randomized data within JSON templates. With Go Randomify, you can easily create dynamic JSON files for testing, prototyping,automations and more.</description>
+      <description>&lt;code&gt;gorandomify&lt;/code&gt; is a lightweight command-line tool written in Go that allows you to generate randomized data within JSON templates. With Go Randomify, you can easily create dynamic JSON files for testing, prototyping,automations and more.</description>
       
     </item>
     
