@@ -390,7 +390,7 @@ This is a basic implementation, and theres still room for improvement. we could 
 
 ## Give me the code
 
-If you have followed along till here, you definitely want to have a look at the code. Below is the github repo for this proeject.
+If you have followed along till here, you definitely want to have a look at the code. Below is the github repo for this project.
 
 ### [https://github.com/rohanchavan1918/wc](https://github.com/rohanchavan1918/wc)
 
