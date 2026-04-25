@@ -376,7 +376,7 @@ PS C:\Users\rohan\Desktop\personal\wc>
 
 As expected, when we dont pass any flags the default output is printing new lines, number of chars and bytes
 
-Lets pass some flags and test it
+Lets pass some flags and test it.
 
 ```
 PS C:\Users\rohan\Desktop\personal\wc> go run .\cmd\main.go -l -w file.txt
